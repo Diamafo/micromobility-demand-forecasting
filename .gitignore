@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# PyTorch models (optional - comment out if you want to commit models)
+*.pth
+*.pt
+
+# Data files (too large for GitHub)
+data/raw/*.csv
+*.csv
+
+# Allow specific small CSVs
+!outputs/*.csv
+
+# Pickle files
+*.pkl
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
