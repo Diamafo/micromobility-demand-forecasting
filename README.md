@@ -11,9 +11,9 @@ Deep learning system for predicting daily demand of shared micromobility vehicle
 This thesis project develops a production-ready demand forecasting system for micromobility operators. The model predicts daily trip demand 7 days ahead, enabling optimal fleet allocation and operational planning.
 
 **Key Features:**
-- 🎯 **50% improvement** over Naive baseline
+- 🎯 **50% improvement** over Naive Baseline
 - 🧠 Comparative analysis of **LSTM vs GRU** architectures
-- 📈 Handles temporal patterns: Weekly Seasonality, Trends, Holidays
+- 📈 Handles temporal patterns: Weekly Seasonality, Trends
 - 🔄 Autoregressive component for robust predictions
 - 📦 Production-ready inference pipeline for real-world deployment
 
