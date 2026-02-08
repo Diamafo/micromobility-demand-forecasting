@@ -1,1 +1,1 @@
-["DayOfWeek_sin", "DayOfWeek_cos", "Month_sin", "Month_cos", "Season_sin", "Season_cos", "TotalTrips_Lag1", "TotalTrips_Lag7", "MedianDuration", "MedianDistance"]
+["DayOfWeek_sin", "DayOfWeek_cos", "Month_sin", "Month_cos", "DayType", "TotalTrips_Lag1", "TotalTrips_Lag7", "TotalTrips_Std7", "Momentum7"]
