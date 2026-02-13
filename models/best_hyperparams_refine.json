@@ -1,0 +1,14 @@
+{
+  "hidden_size": 160,
+  "num_layers": 2,
+  "dropout": 0.2,
+  "learning_rate": 0.001785923722769652,
+  "weight_decay": 1.080788881454181e-06,
+  "max_lr": 0.012,
+  "pct_start": 0.4,
+  "div_factor": 16.0,
+  "q_threshold": 0.7999999999999999,
+  "w_high": 3.0,
+  "noise_std": 0.02,
+  "max_grad_norm": 0.45
+}
